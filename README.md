@@ -17,3 +17,6 @@ https://lreyes4.github.io/portfolio-liliana-softwaredev/
 
 
 
+/Users/lilianareyes/Desktop/bootcamp/practice-profile/images/Image 9-24-22 at 7.55 PM.jpg
+
+
