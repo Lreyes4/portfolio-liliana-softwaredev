@@ -15,6 +15,6 @@ Portfolio about me containing about, projects and how to get in contact with me.
 Link to Live Site
 https://lreyes4.github.io/portfolio-liliana-softwaredev/
 
-
+![Screenshot](./images/screenshot.jpg)
 
 
