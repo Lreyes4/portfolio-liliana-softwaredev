@@ -18,4 +18,36 @@ body {
     border-width: 5px;
   }
 
+  .projects {
+    display: flex; 
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100vw;
+  }
+
+  .projects div {
+    width: 40%;
+    height: 200px;
+    text-align: center;
+    border: 1px solid #66BFBF ;
+  }
+
+  .projects .main-project {
+    width: 80%;
+  }
+
+  .nav {
+    height: 50px;
+    width: 100%;
+    background-color: #66BFBF;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    
+
+  }
+
+  .nav a {
+    margin-right: 15px;
+  }
   
